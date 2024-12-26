@@ -145,7 +145,7 @@ You can find all examples [HERE](https://editor.p5js.org/npuckett/collections/qu
 
 ## Example 1 - bodyPose: Draw all the points
 
-![Example 1 - Draw all points](/images/1_skeleton_drawAllPoints.PNG)
+![Example 1 - Draw all points](/images/1_skeleton_drawAllPoints.png)
 
 This example looks for all visible points and draws them along with their name/coordinates.
 
@@ -159,7 +159,7 @@ Controls:
 
 ## Example 2 - bodyPose: Fixed point to Body point
 
-![Example 2 - Fixed point to body point](/images/2_fixedPoint_body.PNG)
+![Example 2 - Fixed point to body point](/images/2_fixedPoint_body.png)
 
 This example focusses on a single tracked point in relation to a point on screen.
 
@@ -179,7 +179,7 @@ Controls:
 
 ## Example 3 - bodyPose: 2 body points
 
-![Example 3 - Two body points](/images/3_bodyPt_bodyPt.PNG)
+![Example 3 - Two body points](/images/3_bodyPt_bodyPt.png)
 
 This example draws 2 tracked points and generates the data about the relationship.
 
@@ -200,7 +200,7 @@ Controls:
 
 ## Example 4 - bodyPose: hand raiser
 
-![Example 4 - Hand raiser](/images/4_handraiser.PNG)
+![Example 4 - Hand raiser](/images/4_handraiser.png)
 
 This example creates a relationship between 2 points on the body using a threshold on an axis.
 
@@ -214,7 +214,7 @@ Controls:
 
 ## Example 5 - handPose: show everything
 
-![Example 5 - Show all hand points](/images/5_hand_drawAllPoints.PNG)
+![Example 5 - Show all hand points](/images/5_hand_drawAllPoints.png)
 
 This simple example shows all possible points tracked on hands
 
@@ -223,7 +223,7 @@ This simple example shows all possible points tracked on hands
 
 ## Example 6 - handPose: compare 2 points
 
-![Example 6 - Compare hand points](/images/6_handPt_handPt.PNG)
+![Example 6 - Compare hand points](/images/6_handPt_handPt.png)
 
 Important Variables:
 ```javascript
