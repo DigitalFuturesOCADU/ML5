@@ -1,4 +1,5 @@
-# ML5.js Documentation
+# ML5 examples
+A series of examples that provide helper functions for drawing points and calculating relationships between them in ML5/P5
 
 ## Table of Contents
 - [Introduction](#introduction)
