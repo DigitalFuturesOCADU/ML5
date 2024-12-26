@@ -219,8 +219,8 @@ Controls:
 
 This simple example shows all possible points tracked on hands
 
-- [Editor](https://editor.p5js.org/ml5/sketches/J6GwJt7KY)
-- [Fullscreen](https://editor.p5js.org/ml5/full/J6GwJt7KY)
+- [Editor](https://editor.p5js.org/npuckett/sketches/J6GwJt7KY)
+- [Fullscreen](https://editor.p5js.org/npuckett/full/J6GwJt7KY)
 
 ## Example 6 - handPose: compare 2 points
 
