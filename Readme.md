@@ -145,6 +145,8 @@ You can find all examples [HERE](https://editor.p5js.org/npuckett/collections/qu
 
 ## Example 1 - bodyPose: Draw all the points
 
+![Example 1 - Draw all points](/images/1_skeleton_drawAllPoints.PNG)
+
 This example looks for all visible points and draws them along with their name/coordinates.
 
 It is useful for planning interactions and understanding how the model works.
@@ -156,6 +158,8 @@ Controls:
 - [Fullscreen](https://editor.p5js.org/npuckett/full/GF3ITZlgZ)
 
 ## Example 2 - bodyPose: Fixed point to Body point
+
+![Example 2 - Fixed point to body point](/images/2_fixedPoint_body.PNG)
 
 This example focusses on a single tracked point in relation to a point on screen.
 
@@ -174,6 +178,8 @@ Controls:
 - [Fullscreen](https://editor.p5js.org/npuckett/full/YPtq01HYR)
 
 ## Example 3 - bodyPose: 2 body points
+
+![Example 3 - Two body points](/images/3_bodyPt_bodyPt.PNG)
 
 This example draws 2 tracked points and generates the data about the relationship.
 
@@ -194,6 +200,8 @@ Controls:
 
 ## Example 4 - bodyPose: hand raiser
 
+![Example 4 - Hand raiser](/images/4_handraiser.PNG)
+
 This example creates a relationship between 2 points on the body using a threshold on an axis.
 
 It compares the y pixel value of the nose to the y value of the hand to create a simple gesture input. It also triggers the bodyClick function.
@@ -206,6 +214,8 @@ Controls:
 
 ## Example 5 - handPose: show everything
 
+![Example 5 - Show all hand points](/images/5_hand_drawAllPoints.PNG)
+
 This simple example shows all possible points tracked on hands
 
 - [Editor](https://editor.p5js.org/ml5/sketches/QGH3dwJ1A)
@@ -213,12 +223,15 @@ This simple example shows all possible points tracked on hands
 
 ## Example 6 - handPose: compare 2 points
 
+![Example 6 - Compare hand points](/images/6_handPt_handPt.PNG)
+
 Important Variables:
 ```javascript
 let handNumberIndex1 = 0;  // First hand index (0 or 1)
 let handPointIndex1 = 4;   // Default to thumb tip
 let handNumberIndex2 = 1;  // Second hand index (0 or 1)
 let handPointIndex2 = 8;   // Default to index tip
+let maxHands = 4;          // maximum number of hands that can be tracked
 ```
 
 Controls:
